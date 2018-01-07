@@ -17,4 +17,4 @@ Coses a tenir en compte:
 
 - Utilització de redireccions de canals per la comunicació entre els programes i els archius.
 
-- Utilització de signals per aclariment propi
+- Utilització de signals per aclariment propi 

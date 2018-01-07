@@ -11,3 +11,10 @@ Es fa una pausa d'1 min, per intentar mantenir les condicions inicials de cada p
 A continuació s'executa el BFS i un cop ha acabat, guarda el temps que ha tardat a results.txt.
 
 Així conseguim dades aparelleades de laberints alteatoris.
+
+
+Coses a tenir en compte: 
+
+- Utilització de redireccions de canals per la comunicació entre els programes i els archius.
+
+- Utilització de signals per aclariment propi
